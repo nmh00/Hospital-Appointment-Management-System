@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tagon\\Downloads\\183\\AppointnmentBookingApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9F98-016B-4E31-ADF9-4855A7E07666}|..\\AppointmentBookingWeb\\AppointmentBookingWeb.csproj|c:\\users\\tagon\\downloads\\183\\appointmentbookingweb\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9F98-016B-4E31-ADF9-4855A7E07666}|..\\AppointmentBookingWeb\\AppointmentBookingWeb.csproj|c:\\users\\tagon\\downloads\\183\\appointmentbookingweb\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9F98-016B-4E31-ADF9-4855A7E07666}|..\\AppointmentBookingWeb\\AppointmentBookingWeb.csproj|c:\\users\\tagon\\downloads\\183\\appointmentbookingweb\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9F98-016B-4E31-ADF9-4855A7E07666}|..\\AppointmentBookingWeb\\AppointmentBookingWeb.csproj|c:\\users\\tagon\\downloads\\183\\appointmentbookingweb\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9F98-016B-4E31-ADF9-4855A7E07666}|..\\AppointmentBookingWeb\\AppointmentBookingWeb.csproj|c:\\users\\tagon\\downloads\\183\\appointmentbookingweb\\controllers\\somecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB9F98-016B-4E31-ADF9-4855A7E07666}|..\\AppointmentBookingWeb\\AppointmentBookingWeb.csproj|c:\\users\\tagon\\downloads\\183\\appointmentbookingweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3FC9D40-B241-43E5-840E-28D09DA943BE}|AppointmentBookingApi.csproj|c:\\users\\tagon\\downloads\\183\\appointnmentbookingapi\\appointmentbookingapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D3FC9D40-B241-43E5-840E-28D09DA943BE}|AppointmentBookingApi.csproj|solutionrelative:appointmentbookingapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tagon\\Downloads\\183\\AppointmentBookingWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\AppointmentBookingWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tagon\\Downloads\\183\\AppointmentBookingWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\AppointmentBookingWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:47:44.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "someController.cs",
+              "DocumentMoniker": "C:\\Users\\tagon\\Downloads\\183\\AppointmentBookingWeb\\Controllers\\someController.cs",
+              "RelativeDocumentMoniker": "..\\AppointmentBookingWeb\\Controllers\\someController.cs",
+              "ToolTip": "C:\\Users\\tagon\\Downloads\\183\\AppointmentBookingWeb\\Controllers\\someController.cs",
+              "RelativeToolTip": "..\\AppointmentBookingWeb\\Controllers\\someController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:47:31.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\tagon\\Downloads\\183\\AppointmentBookingWeb\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "..\\AppointmentBookingWeb\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\tagon\\Downloads\\183\\AppointmentBookingWeb\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "..\\AppointmentBookingWeb\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:46:33.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\tagon\\Downloads\\183\\AppointmentBookingWeb\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "..\\AppointmentBookingWeb\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\tagon\\Downloads\\183\\AppointmentBookingWeb\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "..\\AppointmentBookingWeb\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:46:21.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\tagon\\Downloads\\183\\AppointmentBookingWeb\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "..\\AppointmentBookingWeb\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\tagon\\Downloads\\183\\AppointmentBookingWeb\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "..\\AppointmentBookingWeb\\Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:46:00.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppointmentBookingApi",
+              "DocumentMoniker": "C:\\Users\\tagon\\Downloads\\183\\AppointnmentBookingApi\\AppointmentBookingApi.csproj",
+              "RelativeDocumentMoniker": "AppointmentBookingApi.csproj",
+              "ToolTip": "C:\\Users\\tagon\\Downloads\\183\\AppointnmentBookingApi\\AppointmentBookingApi.csproj",
+              "RelativeToolTip": "AppointmentBookingApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-24T05:43:58.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\tagon\\Downloads\\183\\AppointmentBookingWeb\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "..\\AppointmentBookingWeb\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\tagon\\Downloads\\183\\AppointmentBookingWeb\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "..\\AppointmentBookingWeb\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T05:40:58.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

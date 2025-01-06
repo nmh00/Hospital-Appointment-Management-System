@@ -1,0 +1,66 @@
+﻿@model IEnumerable<AppointmentBookingWeb.Models.AppointmentViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Appointments</h1>
+
+<p>
+    <a asp-action="Create" class="btn app-btn">Add Appointment</a>
+</p>
+
+<div class="table-responsive">
+    <table class="table table-bordered table-striped">
+        <thead class="thead-dark">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th class="d-none d-md-table-cell">
+                    @Html.DisplayNameFor(model => model.ContactNumber)
+                </th>
+                <th class="d-none d-md-table-cell">
+                    @Html.DisplayNameFor(model => model.Address)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Department)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Schedule)
+                </th>
+                <th>Options</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td class="d-none d-md-table-cell">
+                        @Html.DisplayFor(modelItem => item.ContactNumber)
+                    </td>
+                    <td class="d-none d-md-table-cell">
+                        @Html.DisplayFor(modelItem => item.Address)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Department)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Schedule)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+}

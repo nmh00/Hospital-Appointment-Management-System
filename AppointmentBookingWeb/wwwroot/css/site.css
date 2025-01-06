@@ -1,0 +1,113 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  font-family: 'Century Gothic';
+  margin-bottom: 60px;
+}
+
+body {
+    background-image: url('../images/bg.png'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Ensure full viewport height coverage */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+.custom-btn {
+    display: inline-block;
+    width: 100%;
+    padding: 12px 24px;
+    background-color: transparent;
+    border: 1px solid #ccc;
+    text-decoration: none;
+    color: #333;
+    text-align: center;
+    margin: 5px 0;
+}
+
+    .custom-btn:hover,
+    .custom-btn:focus {
+        background-color: lightblue;
+        color: #333;
+        border-color: #999;
+    }
+
+    .custom-btn:active {
+        background-color: lightblue;
+        border-color: #666;
+    }
+
+.cstm-btn {
+    display: inline-block;
+    width: 100%;
+    padding: 6px 12px;
+    background-color: #46a1ca;
+    border: 1px solid #ccc;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    margin: 5px 0;
+}
+
+    .cstm-btn:hover,
+    .cstm-btn:focus {
+        background-color: lightblue;
+        color: #333;
+        border-color: #999;
+    }
+
+    .cstm-btn:active {
+        background-color: lightblue;
+        border-color: #666;
+    }
+
+.app-btn {
+    background-color: lightblue;
+    border: 1px solid #999;
+}
+.app-btn:hover,
+.app-btn:focus {
+    background-color: lightblue;
+    color: white;
+    border-color: #999;
+}
+
+.app-btn:active {
+    background-color: lightblue;
+    border-color: #666;
+}
+
+.transparent-card {
+    background-color: rgba(255, 255, 255, 0.2); /* Adjust the opacity as needed */
+    border: 1px solid rgba(255, 255, 255, 0.6); /* Optional: Adjust the border color and opacity */
+}
+
+.transparent-input {
+    background-color: rgba(255, 255, 255, 0.3); /* Adjust the opacity as needed */
+    border: 1px solid rgba(0, 0, 0, 0.3); /* Optional: Adjust the border color and opacity */
+    color: #333; /* Text color */
+}
+
+    .transparent-input::placeholder {
+        color: rgba(0, 0, 0, 0.10); /* Placeholder text color */
+    }
